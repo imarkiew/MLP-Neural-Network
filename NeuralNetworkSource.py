@@ -22,7 +22,7 @@ learning_rate = 0.001
 #procent liczby przykladow przeznaczonych do testowania
 percent_of_test_examples = 0.3
 
-df = pd.read_csv("./data.csv", index_col="Id")
+df = pd.read_csv("./Data/data.csv", index_col="Id")
 #zastepowanie wyrazen "NA" srednimi arytmetycznymi po danej kolumnie
 df = df.fillna(value=df.mean())
 #cel klasyfikacji binarnej
