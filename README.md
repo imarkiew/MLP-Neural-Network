@@ -1,2 +1,2 @@
 # MLP-Neural-Network
-Współpraca z Mateusz Majkowski
+Cooperation with Mateusz Majkowski.
